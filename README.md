@@ -1,4 +1,4 @@
 # EUGENIO PANES JR
 Accounts receivable Specialist 
 
-## Email: [Documentation](EugPan3s@gmail.com)
+## Email: [EugPan3s@gmail.com](https://blank.page/welcome))
