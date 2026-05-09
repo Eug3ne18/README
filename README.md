@@ -28,3 +28,15 @@ Detail-oriented and motivated computer science graduate with a solid foundation 
 
 Center for International Industries Competence Corp
 -Programming NC-III
+
+### Professional Background
+
+- META (Facebook)
+  1 Meta Way, Menlo Park, CA 94025, United States
+  
+
+
+
+
+
+
