@@ -1,5 +1,5 @@
 # YUUJIN PANES 
-Accounts receivable Specialist 
+PROGRAMMER
 
 ## CONTACT:
 [Madmax@gmail.com](https://linktodocumentation)
