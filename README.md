@@ -24,3 +24,7 @@ Detail-oriented and motivated computer science graduate with a solid foundation 
 - Communication – Explaining technical concepts clearly
 - Adaptability – Learning new tools and frameworks quickly
 
+### Education Background
+
+Center for International Industries Competence Corp
+-Programming NC-III
