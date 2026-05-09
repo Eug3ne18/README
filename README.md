@@ -1,4 +1,4 @@
-# EUGENIO PANES JR
+# YUUJIN PANES 
 Accounts receivable Specialist 
 
 ## CONTACT:
