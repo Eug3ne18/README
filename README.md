@@ -17,3 +17,10 @@ Detail-oriented and motivated computer science graduate with a solid foundation 
 - Version Control – Git, GitHub, GitLab
 - Testing Tools – JUnit, Mockito, Selenium
 - Build Tools – Maven, Gradle
+
+## Soft Skills
+
+- Team collaboration – Working effectively in agile/scrum environments
+- Communication – Explaining technical concepts clearly
+- Adaptability – Learning new tools and frameworks quickly
+
